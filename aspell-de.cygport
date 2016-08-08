@@ -1,0 +1,9 @@
+ASPELL_COMPAT=6
+inherit aspell-dict
+
+NAME="aspell-de"
+VERSION=20030222.1
+RELEASE=1
+CATEGORY="Text"
+SUMMARY="Aspell German dictionaries"
+DESCRIPTION="Aspell German dictionaries"
